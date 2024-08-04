@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cryptad</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="recipient_email">Recipient Email</string>
+    <string name="recipient_phone_number">Recipient Phone Number</string>
+    <string name="encrypt_message">Encrypt Message</string>
+    <string name="decrypt_message">Decrypt Message</string>
+</resources>
